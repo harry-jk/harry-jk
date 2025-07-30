@@ -1,4 +1,4 @@
-<a href="https://github.com/harry-jk"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharry-jk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fharry-jk&label=&icon=github&color=%23198754&message=&style=flat&tz=Asia%2FSeoul" />
 <div>
   <a href="https://facebook.com/jinhyeok"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jinhyeok"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
